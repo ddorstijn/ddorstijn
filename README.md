@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ddorstijn
 - 👀 I’m interested in Research & Development
-- 🌱 I’m currently working at Opticon
+- 🌱 I’m currently working at USoft BV as R&D engineer and Consultant
 - 📫 How to reach me dannydorstijn1997@gmail.com
